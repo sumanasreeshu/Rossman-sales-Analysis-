@@ -21,9 +21,11 @@ Forecasting Models:
 **Impactful Results**
 
 Predictive Power: The Random Forest model achieved a high R² score of 0.987, indicating it could explain approximately 98.7% of the variance in sales.
+
 Promotions Analysis:
 Standard Promotions (Promo) significantly increased sales, nearly doubling during promotion periods.
 Extended Promotions (Promo2) had a less favorable impact, with sales slightly decreasing, suggesting potential consumer fatigue.
+
 Store and Assortment Performance:
 Store Types: Store Type 'b' had the highest average sales, indicating a high-performing category.
 Assortments: Assortment 'b' outperformed others, reflecting strong customer preference for this product mix.
@@ -31,5 +33,6 @@ External Factors: Holidays and nearby competition had notable impacts on sales p
 
 
 **Conclusion**
+
 The analysis confirmed that Rossmann’s sales are influenced by a variety of factors, including store type, product assortment, promotions, and seasonality. The insights derived from this project support data-driven decision-making for inventory optimization, targeted promotions, and strategic adjustments across stores. The predictive models developed provide accurate sales forecasts, enabling Rossmann to make informed business strategy optimizations.
 
