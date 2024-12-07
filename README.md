@@ -1,11 +1,14 @@
 # Rossmann Sales Forecasting and Business Strategy Optimization
-**Project Overview**
+# **Project Overview**
+
 This project analyzes sales data from Rossman stores to identify trends and influencing factors. Using machine learning and statistical methods, the analysis aims to provide actionable insights for improving sales and customer engagement.
 
 **Project Aim**
+
 The goal of this project is to analyze the sales patterns of Rossman stores, understand the factors influencing sales, and build a predictive model to forecast future sales. The insights will assist Rossman in optimizing campaigns, inventory management, and overall sales strategies.
 
-**Techniques Used**
+# **Techniques Used**
+
 Data Preparation: Cleaned and preprocessed data, handling missing values and creating features to capture trends and campaign effects.
 
 Exploratory Data Analysis (EDA): Visualized trends, seasonal patterns, and relationships using Matplotlib and Seaborn.
